@@ -33,7 +33,7 @@
 
 ### Architecture
 
-![development_map](https://github.com/Project-Shimpyo/backend/assets/119032680/f685df7f-db26-4760-bf17-9a411122ce62)
+![image](https://github.com/user-attachments/assets/1cbf06c3-1198-457e-8932-a96d9cc8a8e6)
 
 ### ERD
 
